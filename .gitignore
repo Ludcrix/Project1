@@ -1,0 +1,22 @@
+# Env
+.env
+config.env
+
+# Videos
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# FFmpeg
+ffmpeg/
+
+# Generated / storage
+storage/clips/
+storage/videos/
+storage/tmp/
+storage/cache/
+
+# Logs
+*.log

@@ -1,0 +1,546 @@
+{
+  "clips": [
+    {
+      "id": "35Tjul3iLqQ_1849_tiktok",
+      "clip_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_1849_tiktok.mp4",
+      "caption_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_1849_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "35Tjul3iLqQ",
+      "moment_sec": 1849,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "rejected",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:34",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.707137"
+    },
+    {
+      "id": "35Tjul3iLqQ_9808_tiktok",
+      "clip_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_9808_tiktok.mp4",
+      "caption_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_9808_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "35Tjul3iLqQ",
+      "moment_sec": 9808,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "approved",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:34",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.707646"
+    },
+    {
+      "id": "35Tjul3iLqQ_5234_tiktok",
+      "clip_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_5234_tiktok.mp4",
+      "caption_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_5234_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "35Tjul3iLqQ",
+      "moment_sec": 5234,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "approved",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:34",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T20:16:45.738722",
+      "caption_original": "Salam alzikoum",
+      "caption_current": "Salam alzikoum"
+    },
+    {
+      "id": "35Tjul3iLqQ_5169_tiktok",
+      "clip_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_5169_tiktok.mp4",
+      "caption_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_5169_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "35Tjul3iLqQ",
+      "moment_sec": 5169,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:34",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.708574"
+    },
+    {
+      "id": "35Tjul3iLqQ_6704_tiktok",
+      "clip_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_6704_tiktok.mp4",
+      "caption_path": "storage/clips/35Tjul3iLqQ/35Tjul3iLqQ_6704_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "35Tjul3iLqQ",
+      "moment_sec": 6704,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:34",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.709101"
+    },
+    {
+      "id": "U_nhj_Xog7c_385_tiktok",
+      "clip_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_385_tiktok.mp4",
+      "caption_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_385_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "U_nhj_Xog7c",
+      "moment_sec": 385,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:37",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.709647"
+    },
+    {
+      "id": "U_nhj_Xog7c_654_tiktok",
+      "clip_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_654_tiktok.mp4",
+      "caption_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_654_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "U_nhj_Xog7c",
+      "moment_sec": 654,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:37",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.710213"
+    },
+    {
+      "id": "U_nhj_Xog7c_624_tiktok",
+      "clip_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_624_tiktok.mp4",
+      "caption_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_624_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "U_nhj_Xog7c",
+      "moment_sec": 624,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:37",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.710787"
+    },
+    {
+      "id": "U_nhj_Xog7c_3286_tiktok",
+      "clip_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_3286_tiktok.mp4",
+      "caption_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_3286_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "U_nhj_Xog7c",
+      "moment_sec": 3286,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:37",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.711298"
+    },
+    {
+      "id": "U_nhj_Xog7c_1086_tiktok",
+      "clip_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_1086_tiktok.mp4",
+      "caption_path": "storage/clips/U_nhj_Xog7c/U_nhj_Xog7c_1086_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "U_nhj_Xog7c",
+      "moment_sec": 1086,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:37",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.711792"
+    },
+    {
+      "id": "CVMeLYKPVfE_56_tiktok",
+      "clip_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_56_tiktok.mp4",
+      "caption_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_56_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "CVMeLYKPVfE",
+      "moment_sec": 56,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:41",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.712251"
+    },
+    {
+      "id": "CVMeLYKPVfE_203_tiktok",
+      "clip_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_203_tiktok.mp4",
+      "caption_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_203_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "CVMeLYKPVfE",
+      "moment_sec": 203,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:41",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.712663"
+    },
+    {
+      "id": "CVMeLYKPVfE_1108_tiktok",
+      "clip_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_1108_tiktok.mp4",
+      "caption_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_1108_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "CVMeLYKPVfE",
+      "moment_sec": 1108,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:41",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.713236"
+    },
+    {
+      "id": "CVMeLYKPVfE_1144_tiktok",
+      "clip_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_1144_tiktok.mp4",
+      "caption_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_1144_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "CVMeLYKPVfE",
+      "moment_sec": 1144,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:41",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.713694"
+    },
+    {
+      "id": "CVMeLYKPVfE_4670_tiktok",
+      "clip_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_4670_tiktok.mp4",
+      "caption_path": "storage/clips/CVMeLYKPVfE/CVMeLYKPVfE_4670_tiktok.txt",
+      "creator": "Inoxtag",
+      "video_id": "CVMeLYKPVfE",
+      "moment_sec": 4670,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:41",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.714153"
+    },
+    {
+      "id": "L1x2txhOsoE_51_tiktok",
+      "clip_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_51_tiktok.mp4",
+      "caption_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_51_tiktok.txt",
+      "creator": "DutchElectrician",
+      "video_id": "L1x2txhOsoE",
+      "moment_sec": 51,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:43",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.714672"
+    },
+    {
+      "id": "L1x2txhOsoE_154_tiktok",
+      "clip_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_154_tiktok.mp4",
+      "caption_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_154_tiktok.txt",
+      "creator": "DutchElectrician",
+      "video_id": "L1x2txhOsoE",
+      "moment_sec": 154,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:43",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.715171"
+    },
+    {
+      "id": "L1x2txhOsoE_6_tiktok",
+      "clip_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_6_tiktok.mp4",
+      "caption_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_6_tiktok.txt",
+      "creator": "DutchElectrician",
+      "video_id": "L1x2txhOsoE",
+      "moment_sec": 6,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:43",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.715648"
+    },
+    {
+      "id": "L1x2txhOsoE_82_tiktok",
+      "clip_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_82_tiktok.mp4",
+      "caption_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_82_tiktok.txt",
+      "creator": "DutchElectrician",
+      "video_id": "L1x2txhOsoE",
+      "moment_sec": 82,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:43",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.716109"
+    },
+    {
+      "id": "L1x2txhOsoE_120_tiktok",
+      "clip_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_120_tiktok.mp4",
+      "caption_path": "storage/clips/L1x2txhOsoE/L1x2txhOsoE_120_tiktok.txt",
+      "creator": "DutchElectrician",
+      "video_id": "L1x2txhOsoE",
+      "moment_sec": 120,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:43",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.716649"
+    },
+    {
+      "id": "T1WlKbttRJc_2588_tiktok",
+      "clip_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2588_tiktok.mp4",
+      "caption_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2588_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "T1WlKbttRJc",
+      "moment_sec": 2588,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:50",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.717281"
+    },
+    {
+      "id": "T1WlKbttRJc_2554_tiktok",
+      "clip_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2554_tiktok.mp4",
+      "caption_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2554_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "T1WlKbttRJc",
+      "moment_sec": 2554,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:50",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.717869"
+    },
+    {
+      "id": "T1WlKbttRJc_2378_tiktok",
+      "clip_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2378_tiktok.mp4",
+      "caption_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2378_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "T1WlKbttRJc",
+      "moment_sec": 2378,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:50",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.718331"
+    },
+    {
+      "id": "T1WlKbttRJc_2492_tiktok",
+      "clip_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2492_tiktok.mp4",
+      "caption_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2492_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "T1WlKbttRJc",
+      "moment_sec": 2492,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:50",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.718820"
+    },
+    {
+      "id": "T1WlKbttRJc_2166_tiktok",
+      "clip_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2166_tiktok.mp4",
+      "caption_path": "storage/clips/T1WlKbttRJc/T1WlKbttRJc_2166_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "T1WlKbttRJc",
+      "moment_sec": 2166,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:50",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.719314"
+    },
+    {
+      "id": "1ZUVxp_flaA_581_tiktok",
+      "clip_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_581_tiktok.mp4",
+      "caption_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_581_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "1ZUVxp_flaA",
+      "moment_sec": 581,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:53",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.719847"
+    },
+    {
+      "id": "1ZUVxp_flaA_611_tiktok",
+      "clip_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_611_tiktok.mp4",
+      "caption_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_611_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "1ZUVxp_flaA",
+      "moment_sec": 611,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:53",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.720365"
+    },
+    {
+      "id": "1ZUVxp_flaA_489_tiktok",
+      "clip_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_489_tiktok.mp4",
+      "caption_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_489_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "1ZUVxp_flaA",
+      "moment_sec": 489,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:53",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.720754"
+    },
+    {
+      "id": "1ZUVxp_flaA_693_tiktok",
+      "clip_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_693_tiktok.mp4",
+      "caption_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_693_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "1ZUVxp_flaA",
+      "moment_sec": 693,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:53",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.721135"
+    },
+    {
+      "id": "1ZUVxp_flaA_527_tiktok",
+      "clip_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_527_tiktok.mp4",
+      "caption_path": "storage/clips/1ZUVxp_flaA/1ZUVxp_flaA_527_tiktok.txt",
+      "creator": "Gmk",
+      "video_id": "1ZUVxp_flaA",
+      "moment_sec": 527,
+      "platforms": [
+        "tiktok",
+        "snap"
+      ],
+      "status": "pending",
+      "edited": true,
+      "created_at": "2025-12-26T15:50:53",
+      "approved_at": null,
+      "posted_at": null,
+      "updated_at": "2025-12-26T15:41:57.721770"
+    }
+  ]
+}

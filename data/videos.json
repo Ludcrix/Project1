@@ -1,0 +1,547 @@
+[
+  {
+    "video_id": "dQw4w9WgXcQ",
+    "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+    "channel": "Rick Astley",
+    "published_at": "2009-10-25T06:57:33Z",
+    "duration": "PT3M34S",
+    "views": 1725730401,
+    "likes": 18697546,
+    "comments": 2409745
+  },
+  {
+    "video_id": "35Tjul3iLqQ",
+    "title": "On vous fait gagner 30 000e de cadeau ! Ft GMK et Michou (live spécial Noël)",
+    "channel": "Inoxtag",
+    "published_at": "2025-12-17T22:14:06Z",
+    "duration": "PT2H49M49S",
+    "views": 1041873,
+    "likes": 37233,
+    "comments": 625,
+    "buzz": {
+      "score": 3268.13,
+      "age_hours": 191.81,
+      "views_per_hour": 5431.7,
+      "like_ratio": 0.0357,
+      "comment_ratio": 0.0006
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "HgkQaidMH_U",
+    "title": "On découvre l'évènement de la nouvelle saison FORTNITE avec GOTA !",
+    "channel": "Inoxtag",
+    "published_at": "2025-11-29T20:26:04Z",
+    "duration": "PT2H40M57S",
+    "views": 243047,
+    "likes": 9433,
+    "comments": 31,
+    "buzz": {
+      "score": 242.84,
+      "age_hours": 625.61,
+      "views_per_hour": 388.49,
+      "like_ratio": 0.0388,
+      "comment_ratio": 0.0001
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "U_nhj_Xog7c",
+    "title": "7 jours pour survivre en Jungle ! (avec la Légion étrangère)",
+    "channel": "Inoxtag",
+    "published_at": "2025-11-08T13:30:24Z",
+    "duration": "PT1H20M42S",
+    "views": 6018351,
+    "likes": 298184,
+    "comments": 8345,
+    "buzz": {
+      "score": 3189.99,
+      "age_hours": 1136.54,
+      "views_per_hour": 5295.32,
+      "like_ratio": 0.0495,
+      "comment_ratio": 0.0014
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "-Uu-YYbGeM4",
+    "title": "On découvre la chat de proximité sur FORTNITE ! (je sens que ça va être le bordel !)",
+    "channel": "Inoxtag",
+    "published_at": "2025-09-21T21:26:31Z",
+    "duration": "PT2H36M50S",
+    "views": 711534,
+    "likes": 29297,
+    "comments": 436,
+    "buzz": {
+      "score": 197.67,
+      "age_hours": 2280.61,
+      "views_per_hour": 311.99,
+      "like_ratio": 0.0412,
+      "comment_ratio": 0.0006
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "CVMeLYKPVfE",
+    "title": "10 jours pour traverser l’océan Atlantique ! (ft. Guirec Soudée)",
+    "channel": "Inoxtag",
+    "published_at": "2025-09-20T12:30:14Z",
+    "duration": "PT1H20M29S",
+    "views": 6296647,
+    "likes": 272685,
+    "comments": 5559,
+    "buzz": {
+      "score": 1644.08,
+      "age_hours": 2313.54,
+      "views_per_hour": 2721.64,
+      "like_ratio": 0.0433,
+      "comment_ratio": 0.0009
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "4FoylWoF1ns",
+    "title": "Qui sera le dernier survivant de La Secte (ft Michou, Byilhan et Anyme)",
+    "channel": "Inoxtag",
+    "published_at": "2025-06-14T12:30:06Z",
+    "duration": "PT1H",
+    "views": 13690154,
+    "likes": 642017,
+    "comments": 26451,
+    "buzz": {
+      "score": 1772.84,
+      "age_hours": 4665.69,
+      "age_days": 194.4,
+      "views_per_hour": 2934.22,
+      "like_ratio": 0.0469,
+      "comment_ratio": 0.0019
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "ig-_3_-9wu4",
+    "title": "Qui Perdra son Job ?! (ft. Byilhan, Nico)",
+    "channel": "Inoxtag",
+    "published_at": "2025-04-05T12:30:44Z",
+    "duration": "PT44M",
+    "views": 6646566,
+    "likes": 440652,
+    "comments": 6301,
+    "buzz": {
+      "score": 645.31,
+      "age_hours": 6345.68,
+      "age_days": 264.4,
+      "views_per_hour": 1047.42,
+      "like_ratio": 0.0663,
+      "comment_ratio": 0.0009
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "bY0tH3-kmG0",
+    "title": "J’ai survécu à l’un des sommets les plus mortels des Alpes ! (1 an après l’Everest)",
+    "channel": "Inoxtag",
+    "published_at": "2025-05-10T12:30:42Z",
+    "duration": "PT40M6S",
+    "views": 4873495,
+    "likes": 214861,
+    "comments": 4141,
+    "buzz": {
+      "score": 542.38,
+      "age_hours": 5505.68,
+      "age_days": 229.4,
+      "views_per_hour": 885.18,
+      "like_ratio": 0.0441,
+      "comment_ratio": 0.0008
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "Kec0FzdyWaQ",
+    "title": "10 STREAMERS S'AFFRONTENT AUX ECHECS ! (ft. JulienSong, Kameto, Etoile, Gothamchess, Max Biaggi...)",
+    "channel": "Inoxtag",
+    "published_at": "2025-05-07T21:01:08Z",
+    "duration": "PT2H51M52S",
+    "views": 1651664,
+    "likes": 54135,
+    "comments": 1317,
+    "buzz": {
+      "score": 186.38,
+      "age_hours": 5569.17,
+      "age_days": 232.05,
+      "views_per_hour": 296.57,
+      "like_ratio": 0.0328,
+      "comment_ratio": 0.0008
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "Sf7_spZ5Ggw",
+    "title": "RETOUR SUR FORTNITE AVEC MICHOU TAH 2018",
+    "channel": "Inoxtag",
+    "published_at": "2025-06-18T21:23:22Z",
+    "duration": "PT2H37M8S",
+    "views": 1230824,
+    "likes": 43202,
+    "comments": 684,
+    "buzz": {
+      "score": 170.86,
+      "age_hours": 4560.8,
+      "age_days": 190.03,
+      "views_per_hour": 269.87,
+      "like_ratio": 0.0351,
+      "comment_ratio": 0.0006
+    },
+    "channel_name": "Inoxtag"
+  },
+  {
+    "video_id": "4dVbEoPTieg",
+    "title": "LE PIRE DATE #5 (ft Bigflo, Anyme, GMK)",
+    "channel": "SQUEEZIE",
+    "published_at": "2025-12-22T11:18:20Z",
+    "duration": "PT1H1M21S",
+    "views": 7937027,
+    "likes": 498208,
+    "comments": 9120,
+    "buzz": {
+      "score": 57403.5,
+      "age_hours": 82.98,
+      "age_days": 3.46,
+      "views_per_hour": 95645.77,
+      "like_ratio": 0.0628,
+      "comment_ratio": 0.0011
+    },
+    "channel_name": "Squeezie"
+  },
+  {
+    "video_id": "3iJ_uTVGdLE",
+    "title": "Bigflo a les pires fantasmes au lit",
+    "channel": "SQUEEZIE",
+    "published_at": "2025-12-22T17:20:50Z",
+    "duration": "PT1M38S",
+    "views": 862371,
+    "likes": 23143,
+    "comments": 131,
+    "buzz": {
+      "score": 6731.61,
+      "age_hours": 76.94,
+      "age_days": 3.21,
+      "views_per_hour": 11208.09,
+      "like_ratio": 0.0268,
+      "comment_ratio": 0.0002
+    },
+    "channel_name": "Squeezie"
+  },
+  {
+    "video_id": "j4nV3bgGBJU",
+    "title": "DEVINE TON RÔLE ! (Ft. Raska, Lebouseuh, Cocotte et Doigby)",
+    "channel": "Michou",
+    "published_at": "2025-12-21T10:15:06Z",
+    "duration": "PT53M43S",
+    "views": 947326,
+    "likes": 43633,
+    "comments": 919,
+    "buzz": {
+      "score": 5272.88,
+      "age_hours": 108.04,
+      "age_days": 4.5,
+      "views_per_hour": 8768.46,
+      "like_ratio": 0.0461,
+      "comment_ratio": 0.001
+    },
+    "channel_name": "Michou"
+  },
+  {
+    "video_id": "3CTzNpVahZc",
+    "title": "GMK core ✨",
+    "channel": "SQUEEZIE",
+    "published_at": "2025-12-25T15:43:41Z",
+    "duration": "PT1M3S",
+    "views": 50242,
+    "likes": 3486,
+    "comments": 25,
+    "buzz": {
+      "score": 4612.24,
+      "age_hours": 6.56,
+      "age_days": 0.27,
+      "views_per_hour": 7657.91,
+      "like_ratio": 0.0694,
+      "comment_ratio": 0.0005
+    },
+    "channel_name": "Squeezie"
+  },
+  {
+    "video_id": "UeWAe7aNsXk",
+    "title": "BigFlo arrive à toutes les séduire",
+    "channel": "SQUEEZIE",
+    "published_at": "2025-12-23T17:00:53Z",
+    "duration": "PT42S",
+    "views": 391480,
+    "likes": 9291,
+    "comments": 30,
+    "buzz": {
+      "score": 4414.99,
+      "age_hours": 53.27,
+      "age_days": 2.22,
+      "views_per_hour": 7348.4,
+      "like_ratio": 0.0237,
+      "comment_ratio": 0.0001
+    },
+    "channel_name": "Squeezie"
+  },
+  {
+    "video_id": "gwjqiYTTMDY",
+    "title": "24H ENFERME AVEC 100 BOUTONS MYSTERES (avec Nico)",
+    "channel": "Michou",
+    "published_at": "2025-11-30T10:15:05Z",
+    "duration": "PT50M53S",
+    "views": 3063165,
+    "likes": 114356,
+    "comments": 1883,
+    "buzz": {
+      "score": 3012.43,
+      "age_hours": 612.04,
+      "age_days": 25.5,
+      "views_per_hour": 5004.86,
+      "like_ratio": 0.0373,
+      "comment_ratio": 0.0006
+    },
+    "channel_name": "Michou"
+  },
+  {
+    "video_id": "TT2wet3hA6A",
+    "title": "TERMINAL : LA CHASSE À L’HOMME (Épisode 1)",
+    "channel": "Michou",
+    "published_at": "2025-09-07T12:30:26Z",
+    "duration": "PT1H22M19S",
+    "views": 10009930,
+    "likes": 390729,
+    "comments": 10608,
+    "buzz": {
+      "score": 2297.38,
+      "age_hours": 2625.78,
+      "age_days": 109.41,
+      "views_per_hour": 3812.17,
+      "like_ratio": 0.039,
+      "comment_ratio": 0.0011
+    },
+    "channel_name": "Michou"
+  },
+  {
+    "video_id": "T1WlKbttRJc",
+    "title": "ANYME M’ENVOIE EN ENFER EN LAMBORGHINI 😱😨!! J’AI VOMI 🤮🤢!!",
+    "channel": "GMK",
+    "published_at": "2025-12-20T17:15:20Z",
+    "duration": "PT49M23S",
+    "views": 1032840,
+    "likes": 62715,
+    "comments": 6522,
+    "buzz": {
+      "score": 4970.58,
+      "age_hours": 125.1,
+      "age_days": 5.21,
+      "views_per_hour": 8255.84,
+      "like_ratio": 0.0607,
+      "comment_ratio": 0.0063
+    },
+    "channel_name": "GMK"
+  },
+  {
+    "video_id": "1ZUVxp_flaA",
+    "title": "INOXTAG & GMK : ON VOUS DIT ENFIN LA VÉRITÉ 😱😨!! ",
+    "channel": "GMK",
+    "published_at": "2025-11-22T16:43:03Z",
+    "duration": "PT43M2S",
+    "views": 1577324,
+    "likes": 239376,
+    "comments": 11101,
+    "buzz": {
+      "score": 1226.54,
+      "age_hours": 797.64,
+      "age_days": 33.24,
+      "views_per_hour": 1977.48,
+      "like_ratio": 0.1518,
+      "comment_ratio": 0.007
+    },
+    "channel_name": "GMK"
+  },
+  {
+    "video_id": "BHSZlHe27cM",
+    "title": "24 HEURES AVEC INOX ET SQUEEZIE À PARIS !! ÇA À VRAIMENT MAL TOURNÉ 😱😨!!",
+    "channel": "GMK",
+    "published_at": "2025-09-14T15:57:50Z",
+    "duration": "PT1H22M34S",
+    "views": 4352511,
+    "likes": 182481,
+    "comments": 11648,
+    "buzz": {
+      "score": 1075.3,
+      "age_hours": 2454.4,
+      "age_days": 102.27,
+      "views_per_hour": 1773.35,
+      "like_ratio": 0.0419,
+      "comment_ratio": 0.0027
+    },
+    "channel_name": "GMK"
+  },
+  {
+    "video_id": "f6a0Lo2uKVM",
+    "title": "J’AI ACHETÉ LA FERRARI DE MES RÊVES 😍😍!! MON ACHAT LE PLUS FOU 😱😱!!",
+    "channel": "GMK",
+    "published_at": "2025-12-06T17:01:48Z",
+    "duration": "PT54M10S",
+    "views": 570790,
+    "likes": 36662,
+    "comments": 7880,
+    "buzz": {
+      "score": 762.56,
+      "age_hours": 461.33,
+      "age_days": 19.22,
+      "views_per_hour": 1237.27,
+      "like_ratio": 0.0642,
+      "comment_ratio": 0.0138
+    },
+    "channel_name": "GMK"
+  },
+  {
+    "video_id": "5juGRgcEREs",
+    "title": "24H AVEC LE PROFESSEUR RAOUL À MONACO !! IL ME FAIT VOMIR EN F40 🤢🤮 !!",
+    "channel": "GMK",
+    "published_at": "2025-11-29T17:44:38Z",
+    "duration": "PT1H41M44S",
+    "views": 733646,
+    "likes": 41713,
+    "comments": 9153,
+    "buzz": {
+      "score": 718.21,
+      "age_hours": 628.62,
+      "age_days": 26.19,
+      "views_per_hour": 1167.08,
+      "like_ratio": 0.0569,
+      "comment_ratio": 0.0125
+    },
+    "channel_name": "GMK"
+  },
+  {
+    "video_id": "L1x2txhOsoE",
+    "title": "Zaptec Go 2 installation - Dutch Electrician Ev charger  #electrician #evcharging #merrychristmas",
+    "channel": "Dutch Electrician Amsterdam 🇳🇱",
+    "published_at": "2025-12-19T12:54:19Z",
+    "duration": "PT2M56S",
+    "views": 3309298,
+    "likes": 29722,
+    "comments": 548,
+    "buzz": {
+      "score": 12919.97,
+      "age_hours": 153.71,
+      "age_days": 6.4,
+      "views_per_hour": 21529.47,
+      "like_ratio": 0.009,
+      "comment_ratio": 0.0002
+    },
+    "channel_name": "DutchElectrician",
+    "anomaly_status": "inconnu"
+  },
+  {
+    "video_id": "0U6_HAObYPg",
+    "title": "Dutch Electrician - Zaptec Go 2 installation Ev Charger | #elektricien",
+    "channel": "Dutch Electrician Amsterdam 🇳🇱",
+    "published_at": "2025-10-12T11:32:49Z",
+    "duration": "PT2M58S",
+    "views": 1922174,
+    "likes": 20553,
+    "comments": 516,
+    "buzz": {
+      "score": 648.11,
+      "age_hours": 1787.07,
+      "age_days": 74.46,
+      "views_per_hour": 1075.6,
+      "like_ratio": 0.0107,
+      "comment_ratio": 0.0003
+    },
+    "channel_name": "DutchElectrician",
+    "anomaly_status": "inconnu"
+  },
+  {
+    "video_id": "7Vh6oOQU_yI",
+    "title": "Qui fera la meilleure bûche entre moi et ronisia ?",
+    "channel": "Anyme TV",
+    "published_at": "2025-12-22T11:03:24Z",
+    "duration": "PT36M46S",
+    "views": 207791,
+    "likes": 9112,
+    "comments": 227,
+    "buzz": {
+      "score": 1481.99,
+      "age_days": 3.53,
+      "views_per_hour": 2451.16,
+      "like_ratio": 0.0439,
+      "comment_ratio": 0.0011
+    },
+    "channel_name": "Anyme",
+    "anomaly_status": "inconnu",
+    "verdict": {
+      "label": "❓ PAS ASSEZ DE DONNÉES",
+      "meaning": "Pas assez d'historique pour juger.",
+      "action": "ATTENDRE"
+    },
+    "video_category": "ENTERTAINMENT / REACTION"
+  },
+  {
+    "video_id": "16JknSuZ0PM",
+    "title": "KEEN’V À TOUT FAIT DANS SA VIE – TEST DE PURETÉ",
+    "channel": "Anyme TV",
+    "published_at": "2025-12-17T16:21:02Z",
+    "duration": "PT32M11S",
+    "views": 343685,
+    "likes": 12138,
+    "comments": 141,
+    "buzz": {
+      "score": 1042.7,
+      "age_days": 8.31,
+      "views_per_hour": 1722.92,
+      "like_ratio": 0.0353,
+      "comment_ratio": 0.0004
+    },
+    "channel_name": "Anyme",
+    "anomaly_status": "inconnu",
+    "verdict": {
+      "label": "❓ PAS ASSEZ DE DONNÉES",
+      "meaning": "Pas assez d'historique pour juger.",
+      "action": "ATTENDRE"
+    },
+    "video_category": "TECH / REVIEW"
+  },
+  {
+    "video_id": "FcQ5aFjOcSk",
+    "title": "24 HEURES AVEC LA BOISERIE À MONACO !! IL CONDUIT MA BM DE 1.000 CHEVAUX 😱😨!!",
+    "channel": "GMK",
+    "published_at": "2025-11-08T17:04:05Z",
+    "duration": "PT1H5M18S",
+    "views": 744809,
+    "likes": 51059,
+    "comments": 4724,
+    "buzz": {
+      "score": 412.03,
+      "age_days": 47.38,
+      "views_per_hour": 654.99,
+      "like_ratio": 0.0686,
+      "comment_ratio": 0.0063
+    },
+    "channel_name": "Gmk",
+    "anomaly_status": "inconnu",
+    "verdict": {
+      "label": "❓ PAS ASSEZ DE DONNÉES",
+      "meaning": "Pas assez d'historique pour juger.",
+      "action": "ATTENDRE"
+    },
+    "verdict_reason": {
+      "views_per_hour": 654.99,
+      "channel_avg_vph": null,
+      "ratio_vs_average": null,
+      "buzz_score": 412.03
+    },
+    "video_category": "LIFESTYLE / LUXE / REACTION",
+    "needs_moment_detection": false
+  }
+]
